@@ -1,5 +1,4 @@
-## Create TODO Project 
-
+## Assignment (Backend - End points)
 step 1 - register 
 
 url : http://localhost:3000/api/auth/register
